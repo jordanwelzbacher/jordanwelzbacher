@@ -1,8 +1,6 @@
 # Hi, I'm Jordan Welzbacher
 
-## Looking for work!
-
-I am a former professional in the computer hardware and service industry with a Computer Science and Engineering background. While in my previous role at a national retailer, I used my software skills to develop some web-based tools for internal teams. This experience, along with that of my side project FFDecks.com, led me to realize that my true passion is in creating solutions with software. I’m now looking to leverage a history of programming experience to become a full stack developer with an employer that will foster my desire to expand my skills.
+I am a former professional in the computer hardware and service industry with a Computer Science and Engineering background. While in my previous role at a national retailer, I used my software skills to develop some web-based tools for internal teams. This experience, along with that of my side project FFDecks.com, led me to realize that my true passion is in creating solutions with software.
 
 ### Projects:
  - [ffdecks.com](https://ffdecks.com/) - Cofounder, designer, developer
