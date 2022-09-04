@@ -8,9 +8,6 @@ I am a former professional in the computer hardware and service industry with a 
    - Angular, Python, Google Cloud Platform
  - [swiss tournament platform](https://github.com/jordanwelzbacher/swisstournament) - developer
    - Vue, Java | Spring Boot, Postgres, AWS
-   
-### Currently Learning:
- - Vue, React, Python, Flask, Docker
  
 ### Reach me at:
  - https://www.linkedin.com/in/jwelzbacher/
