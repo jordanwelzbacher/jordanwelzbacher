@@ -4,14 +4,10 @@ I am a former professional in the computer hardware and service industry with a 
 
 ### Projects:
  - [ffdecks.com](https://ffdecks.com/) - Cofounder, designer, developer
-   - serves 14,000 users per month
-   - Angular, Python, Google Cloud Platform
- - [swiss tournament platform](https://github.com/jordanwelzbacher/swisstournament) - developer
-   - Vue, Java | Spring Boot, Postgres, AWS
+   - serves 20,000 users per month
  
 ### Reach me at:
  - https://www.linkedin.com/in/jwelzbacher/
-   
 
 <!---
 jordanwelzbacher/jordanwelzbacher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
